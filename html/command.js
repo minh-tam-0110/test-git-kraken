@@ -1,4 +1,4 @@
-Extention_Better_Comments == 'https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments'
+Extention_Better_Comments == 'https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments';
 
 /**
  * MyMethod
@@ -8,9 +8,11 @@ Extention_Better_Comments == 'https://marketplace.visualstudio.com/items?itemNam
  * TODO refactor this method so that it conforms to the API
  * @param myPraram The parameter for this method
  * @minh-tam-0110
+ *
  * @BoThuan
  */
 
+//TODO: hello word
 //* this is a ...
 //? This is a ...
 //TODO: Create some code
