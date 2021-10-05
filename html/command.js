@@ -1,4 +1,4 @@
-href == 'https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments'
+Extention_Better_Comments == 'https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments'
 
 /**
  * MyMethod
